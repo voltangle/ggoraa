@@ -1,3 +1,4 @@
+![](https://github.com/GGorAA/GGorAA/blob/master/profile%20readme%20cover.png?raw=true)
 # Hello folks 👋
 
 ## Hi, I am GGorAA! Junior Kotlin + Spring developer, and Portal 2 fan! :)
