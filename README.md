@@ -11,6 +11,7 @@ Hi, I am GGorAA, Junior Kotlin + Spring developer, Portal 2 fan, and electric un
 ![](https://img.shields.io/badge/Favourite%20Server%20OS-Ubuntu%20Server%2020.04-purple?style=flat)
 ![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-orange?style=flat)
 ![](https://img.shields.io/badge/Build%20system-Gradle-black?style=flat)
+![](https://img.shields.io/badge/Design%20tool-Figma-orange?style=flat)
 
 ## GitHub Stats
 
