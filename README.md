@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello folks 👋
 
 ## Hi, I am GGorAA! Junior Kotlin + Spring developer, and Portal 2 fan! :)
 
