@@ -21,7 +21,7 @@ Hi, I am GGorAA, Junior Kotlin + Spring developer, Portal 2 fan, Arduino develop
 ![](https://github-readme-stats.vercel.app/api?username=GGorAA&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=GGorAA&repo=GLaDOS)
-![](https://github-readme-stats.vercel.app/api/pin?username=Dynamium&repo=ETCalc)
+![](https://github-readme-stats.vercel.app/api/pin?username=Dynamium&repo=EVCalc)
 
 ## Contact me📪
 
