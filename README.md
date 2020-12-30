@@ -13,7 +13,7 @@ Hi, I am GGorAA, Junior Kotlin + Spring developer, Portal 2 fan, Arduino develop
 ![https://code.visualstudio.com](https://img.shields.io/badge/Secondary%20IDE-VS%20Code-blue?style=flat)
 ![https://gradle.org](https://img.shields.io/badge/Build%20system-Gradle-black?style=flat)
 ![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-orange?style=flat)
-![https://www.figma.com](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20KS16S-orange?style=flat)
+![https://www.figma.com](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20KS114D-orange?style=flat)
 
 ## GitHub Stats
 
