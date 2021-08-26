@@ -1,4 +1,3 @@
-![](https://github.com/GGorAA/GGorAA/blob/master/profile%20readme%20cover.png?raw=true)
 # Hello folks 👋
 
 Hi, I am GGorAA, Junior Kotlin developer, Portal 2 fan, Garmin Connect IQ developer, and electric unicycle (EUC) rider! :)
