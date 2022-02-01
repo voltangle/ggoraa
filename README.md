@@ -4,7 +4,7 @@ Hi, I am GGorAA, Junior Kotlin developer, Portal 2 fan, Garmin Connect IQ develo
 
 ## Technology and tools 🛠
 
-![https://kotlinlang.org](https://img.shields.io/badge/Favourite%20language-Kotlin-purple?style=flat)
+![https://kotlinlang.org](https://img.shields.io/badge/Favourite%20language-Swift-red?style=flat)
 ![https://github.com/ggoraa/moc](https://img.shields.io/badge/Currently%20working%20on-Moc-green?style=flat)
 ![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Main%20IDE-IntelliJ%20IDEA-orange?style=flat)
 ![https://code.visualstudio.com](https://img.shields.io/badge/Secondary%20IDE-VS%20Code-blue?style=flat)
