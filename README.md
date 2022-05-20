@@ -1,6 +1,6 @@
 # Hello folks 👋
 
-Hi, I am GGorAA, Junior Kotlin developer, Portal 2 fan, Garmin Connect IQ developer, and electric unicycle (EUC) rider! :)
+Hi, I am GGorAA, Junior Swift on iOS/macOS/Server-Side developer, Portal 2 fan, and electric unicycle (EUC) rider! :)
 
 ## Technology and tools 🛠
 
