@@ -13,7 +13,6 @@ Hi, I am GGorAA, Junior Swift on iOS/macOS/Server-Side developer, Portal 2 fan, 
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=GGorAA&show_icons=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=GGorAA&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/pin?username=GGorAA&repo=Moc)
