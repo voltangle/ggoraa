@@ -2,7 +2,7 @@
 
 Hi, I am GGorAA, Middle Swift on iOS/macOS, Junior embedded C/C++, and Junior Rust software engineer!
 
-I also fly FPV quads, like photography and videography, ride an electric unicycle (EUC), and is obsessed with making new things!
+I also fly FPV quads, like photography and videography, ride an electric unicycle (EUC), love Kawasaki motorcycles, and is obsessed with making new things, both physical and virtual!
 
 ## Technology and tools 🛠
 
