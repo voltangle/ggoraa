@@ -1,6 +1,8 @@
-# Hello folks 👋
+# Hi fellas 👋
 
-Hi, I am GGorAA, Middle Swift on iOS/macOS developer and embedded with C, Portal 2 fan, and electric unicycle (EUC) rider! :)
+Hi, I am GGorAA, Middle Swift on iOS/macOS, Junior embedded C/C++, and Junior Rust software engineer!
+
+I also fly FPV quads, like photography and videography, ride an electric unicycle (EUC), and is obsessed with making new things!
 
 ## Technology and tools 🛠
 
@@ -8,16 +10,18 @@ Hi, I am GGorAA, Middle Swift on iOS/macOS developer and embedded with C, Portal
 ![https://github.com/ggoraa/etxdb](https://img.shields.io/badge/Currently%20working%20on-etxdb-red?style=flat)
 ![https://code.visualstudio.com](https://img.shields.io/badge/IDE-VS%20Code-darkblue?style=flat)
 ![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-black?style=flat)
-![https://www.kingsong.com/14inchseries/8-8.html](https://img.shields.io/badge/Electric%20Unicycle-KingSong%2014X%20(modded)-orange?style=flat)
+![https://www.kingsong.com/14inchseries/8-8.html](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20KS14%20(modded)-orange?style=flat)
 <!-- ![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Main%20IDE-Xcode-blue?style=flat) -->
 
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=GGorAA&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/pin?username=GGorAA&repo=Moc)
-![](https://github-readme-stats.vercel.app/api/pin?username=GGorAA&repo=YeelightKit)
+8
+![](https://github-readme-stats.vercel.app/api/pin?username=EdgeTX&repo=edgetx)
+![](https://github-readme-stats.vercel.app/api/pin?username=ggoraa&repo=etxdb)
 
 ## Contact me📪
 
-[Telegram](https://t.me/GGorAAOfficial)
+[Telegram](https://t.me/GGorAA)
+
+[Discord](https://discordapp.com/users/759086415387557898)
