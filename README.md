@@ -16,12 +16,13 @@ I also fly FPV quads, like photography and videography, ride an electric unicycl
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=GGorAA&show_icons=true)
-8
 ![](https://github-readme-stats.vercel.app/api/pin?username=EdgeTX&repo=edgetx)
-![](https://github-readme-stats.vercel.app/api/pin?username=ggoraa&repo=etxdb)
+![](https://github-readme-stats.vercel.app/api/pin?username=ggoraa&repo=edgetx-badapple)
 
 ## Contact me📪
 
 [Telegram](https://t.me/GGorAA)
 
 [Discord](https://discordapp.com/users/759086415387557898)
+
+[Email](mailto:yegor_yakovenko@icloud.com)
