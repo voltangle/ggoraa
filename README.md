@@ -7,10 +7,10 @@ I also fly FPV quads, like photography and videography, ride an electric unicycl
 ## Technology and tools 🛠
 
 ![https://rust-lang.org](https://img.shields.io/badge/Favourite%20language-Rust-black?style=flat)
-![https://github.com/ggoraa/etxdb](https://img.shields.io/badge/Currently%20working%20on-etxdb-red?style=flat)
-![https://code.visualstudio.com](https://img.shields.io/badge/IDE-VS%20Code-darkblue?style=flat)
+![https://github.com/ggoraa/etxdb](https://img.shields.io/badge/Currently%20working%20on-lv_cxx_bindgen-red?style=flat)
+![https://code.visualstudio.com](https://img.shields.io/badge/Editor-neovim-green?style=flat)
 ![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-black?style=flat)
-![https://www.kingsong.com/14inchseries/8-8.html](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20KS14%20(modded)-orange?style=flat)
+![https://www.kingsong.com/14inchseries/8-8.html](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20MonstrL%20(18L%20but%20with%2024")-orange?style=flat)
 <!-- ![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Main%20IDE-Xcode-blue?style=flat) -->
 
 ## GitHub Stats
