@@ -10,7 +10,7 @@ I also fly FPV quads, like photography and videography, ride electric unicycles,
 ![https://github.com/ggoraa/etxdb](https://img.shields.io/badge/Currently%20working%20on-lv_cxx_bindgen-red?style=flat)
 ![https://code.visualstudio.com](https://img.shields.io/badge/Editor-neovim-green?style=flat)
 ![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-black?style=flat)
-![https://www.kingsong.com/14inchseries/8-8.html](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20MonstrL%20(18L%20but%20with%2024")-orange?style=flat)
+![](https://img.shields.io/badge/EUCs-Project%20%22Protocruiser%22%20%2F%20KS14%20%2F%2016X-orange?style=flat)
 <!-- ![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Main%20IDE-Xcode-blue?style=flat) -->
 
 ## GitHub Stats
@@ -21,7 +21,7 @@ I also fly FPV quads, like photography and videography, ride electric unicycles,
 
 ## Contact me📪
 
-[Telegram](https://t.me/GGorAA)
+[Telegram](https://t.me/Voltangle)
 
 [Discord](https://discordapp.com/users/759086415387557898)
 
